@@ -1,0 +1,27 @@
+<resources>
+    <string name="Locate_yourself">locate</string>
+    <string name="app_name">Velocate</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="item1">item1</string>
+    <string name="itemuta">itemuta</string>
+    <string name="item2">item2</string>
+    <string name="buttonel">buttonel</string>
+    <string name="buttonelo">buttonelo</string>
+    <string name="button1">Button1</string>
+    <string name="button2">Button2</string>
+    <string name="rsr_pechhulp">RSR Pechhulp</string>
+    <string name="bel_rsr_nu">Bel RSR nu</string>
+    <string name="refresh">Refresh</string>
+    <string name="belkosten">Belkosten</string>
+    <string name="call_charges">Call charges</string>
+    <string name="you_pay_your_usual_calling_costs_for_this_number">You pay your usual calling costs for this number</string>
+    <string name="voor_dit_nummer_betaalt_u_uw_gebruikelijke_belkosten">Voor dit nummer betaalt u uw gebruikelijke belkosten</string>
+    <string name="x">X</string>
+    <string name="butonete">butonete</string>
+    <string name="this_is_a_popup_window">This is a popup window.</string>
+    <string name="x_annuleren">X Annuleren</string>
+    <string name="locate_yourself">Locate yourself</string>
+    <string name="call_charges_n_nyou_pay_your_usual_calling_costs_for_this_number">Call charges\n \nYou pay your usual calling costs for this number</string>
+    <string name="belkosten_n_nvoor_dit_nummer_betaalt_u_uw_gebruikelijke_belkosten">Belkosten\n \nVoor dit nummer betaalt u uw gebruikelijke belkosten.</string>
+    <string name="bel_nu">Bel nu</string>
+</resources>

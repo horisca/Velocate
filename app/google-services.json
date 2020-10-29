@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "990278270059",
+    "firebase_url": "https://majestic-voice-261610.firebaseio.com",
+    "project_id": "majestic-voice-261610",
+    "storage_bucket": "majestic-voice-261610.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990278270059:android:7c45ee30fc32c6997c852e",
+        "android_client_info": {
+          "package_name": "com.example.tracklocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990278270059-8njpk37mebhd7l78hbd8f4mb7mumf8ko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBz-MviJHvjqHksi-H_jEfyvaZVu1SW8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990278270059-8njpk37mebhd7l78hbd8f4mb7mumf8ko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
